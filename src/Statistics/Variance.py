@@ -1,4 +1,4 @@
-def variance(data):
+def get_variance(data):
     n = len(data)
     mean = sum(data) / n
     deviations = [(x-mean) **2 for x in data]

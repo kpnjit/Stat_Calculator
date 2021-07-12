@@ -1,4 +1,4 @@
-def median(data):
+def get_median(data):
     try:
         n = len(data)
         index = n // 2
