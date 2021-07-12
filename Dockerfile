@@ -5,3 +5,6 @@ ADD src /src
 RUN pip install --upgrade pip
 
 CMD ["python", "-m", "unittest", "discover", "-s","./src/Tests"]
+
+ENV PYTHONPATH=parent_directory_path
+
