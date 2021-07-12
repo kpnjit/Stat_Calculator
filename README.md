@@ -16,3 +16,4 @@ Descriptive Statistics function
 3) Mode
 4) Variance
 5) Standard Deviation
+Random Number Generator
