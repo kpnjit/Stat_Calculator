@@ -1,6 +1,7 @@
 # Stat_Calculator ![](https://www.travis-ci.com/kpnjit/Stat_Calculator.svg?branch=master)
 
 Statistics Calculator created using Statistics functions and tested with Unit Testing.
+
 Methods:
 1) Addition ->Calls addition static method
 2) subtraction  ->Calls Sub static method
