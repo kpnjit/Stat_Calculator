@@ -1,4 +1,4 @@
-# Stat_Calculator [status](https://www.travis-ci.com/kpnjit/Stat_Calculator.svg?branch=master)
+# Stat_Calculator ![](https://www.travis-ci.com/kpnjit/Stat_Calculator.svg?branch=master)
 
 Statistics Calculator created using Statistics functions and tested with Unit Testing.
 Methods:
